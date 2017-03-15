@@ -1,0 +1,15 @@
+{
+    "name": "jofinch/dispatchertest",
+    "require": {
+        "symfony/event-dispatcher": "^3.2"
+    },
+    "authors": [
+        {
+            "name": "Jonathan Finch",
+            "email": "jfinch@rawnet.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Test\\": "src/"}
+    }
+}
